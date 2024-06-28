@@ -81,16 +81,16 @@ int main() {
     std::cout << "\033[41m";
     std::cout << " _______________________________________________________________________\n";
     std::cout << "|                                                                       |\n";
-    std::cout << "|                               Dirb v2.22                               |\n";
-    std::cout << "|                              By The Dark Raver                         |\n";
+    std::cout << "|                                   V.1.1                               |\n";
+    std::cout << "|                               By 11001or10011                         |\n";
     std::cout << "|_______________________________________________________________________|\n";
     std::cout << "\033[0m\n";
     std::cout << "\n";
 
-    std::string url_base = " "; //Hedef Site  =   Target Site 
+    std::string url_base = " "; //Hedef Site  =   Target Site
     std::cout << "URL_BASE: " << url_base << "\n";
 
-    std::string filepath = " "; //Wordlist Dosya Yolu  =  Word list file path 
+    std::string filepath = " "; //Wordlist Dosya Yolu  =  Word list file path
     std::cout << "WORDLIST_FILES: " << filepath << "\n";
     std::cout << "\n";
 
